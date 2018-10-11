@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Building a culture where failing is okay
 subtitle: And nobody will get fired because prod is down
 tags: coding culture
