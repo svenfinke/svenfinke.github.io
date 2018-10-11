@@ -2,15 +2,16 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
+published: true
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Sven Finke. This blog may help you out if you try to find out anything about me. I'm a developer, devop, photographer, cook and gamer. So in the future you may find anything about one of these topics on this blog. This might become the perfect mix of searching for a solution for a complicated problem, finding an answer and also being provided with a recipe for nice munchies to get you through the process of fixing everything that went wrong.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+# History
 
-What else do you need?
+- Developing since 2005
+- Cooking since I was ~8 years old
+- Taking photos with the Sony Alpha 6000 of my wife, since my Nex F-3 broke a few months ago...
+- Playing Videogames since my parents got me a GameBoy when I went into school
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I guess that is the most important stuff that everyone looked for.
