@@ -24,6 +24,16 @@ Code Reviews are a good way spread the responsibility among multiple people. Eve
 But there are other things that you can do:
 
 - Spread knowledge among the team: Try not to create "experts" for specific parts of your project
-- Boyscouting: Refactor code if you hit something that is bad. Build up knowledge about code that you have not written
-- Improve upon tests: Everyone should write tests and also write tests
+- Boyscouting: Refactor code if you hit something that is bad. This will also help you to build up knowledge about code that you have not written
+- Improve tests: Everyone should write tests, not only for "their own" code
+- Pair programming: Do hard things together. This is also great to get new people into the codebase
+- Post Mortem: If something went really wrong, talk about that afterwards. Find ways to prevent this in the future
 
+## Nobody is responsible? ANARCHY!
+
+It can be hard to really make that shift. Especially managers tend to stick to the old system and they try to hold single persons accountable for mistakes. If they suddenly can't do that because the whole team is responsible, they do have a problem. They can't fire them all. But this is not necessary at all. If the teammembers are proud of what they build, if they are interested in making it as good and stable as possible, then this is enough to keep them going.
+Even if something went awfully wrong, they are most probably well aware of that and they will make sure that this is not happening again. The key at this point is motivation. Screaming at somebody, threatening them to get fired or blaming them in front of the whole company is not motivating anybody.
+
+## TLDR;
+
+Think about the "Why" or "What" when something goes wrong, not "Who". Blaming someone is not fixing the problem nor does it help to prevent this in the future. Bring the team together and create a working atmosphere where everyone is proud of what they create. Failures are chances to improve your application. If a failure is handled in the right way, then it will never happen again.
