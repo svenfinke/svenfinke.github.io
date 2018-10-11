@@ -25,8 +25,8 @@ description: This will soon be filled with too much information about myself and
 navbar-links:
   About Me: "aboutme"
   Coding: "tags/#coding"
-  Recipes: "https://svenfinke.github.io/tags/#recipe"
-  Photography: "https://svenfinke.github.io/tags/#photography"
+  Recipes: "tags/#recipe"
+  Photography: "tags/#photography"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
