@@ -24,9 +24,9 @@ description: This will soon be filled with too much information about myself and
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  Coding: "tags/#coding"
+  Recipes: "https://svenfinke.github.io/tags/#recipe"
+  Photography: "https://svenfinke.github.io/tags/#photography"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
