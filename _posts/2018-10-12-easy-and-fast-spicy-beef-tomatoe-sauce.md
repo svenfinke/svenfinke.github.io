@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Easy and fast spicy beef tomatoe sauce
 ---
 ## Ingredients
